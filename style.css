@@ -55,3 +55,16 @@ h2{
     margin-bottom: 4px;
 
 }
+
+footer{
+    text-align: center;
+    color: #F0E8C2;
+    padding-bottom: 48px;
+
+}
+
+footer img{
+    vertical-align: middle;
+    width: 30px;
+    height: 30px;
+}
